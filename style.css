@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    width: 50%;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.main{
+    display: flex;
+    justify-content: flex-end;
+}
+.format{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+p{
+    padding: 20px;
+}
